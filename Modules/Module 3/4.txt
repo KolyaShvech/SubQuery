@@ -1,0 +1,98 @@
+{
+  "data": {
+    "councillors": {
+      "nodes": [
+        {
+          "id": "12hAtDZJGt4of3m2GqZcUCVAjZPALfvPwvtUTFZPQUbdX1Ud",
+          "numberOfVotes": 51,
+          "voteHistory": {
+            "totalCount": 51,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "1363HWTPzDrzAQ6ChFiMU6mP4b6jmQid2ae55JQcKtZnpLGv",
+          "numberOfVotes": 48,
+          "voteHistory": {
+            "totalCount": 48,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "12NLgzqfhuJkc9mZ5XUTTG85N8yhhzfptwqF1xVhtK3ZX7f6",
+          "numberOfVotes": 47,
+          "voteHistory": {
+            "totalCount": 47,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "12Y8b4C9ar162cBgycxYgxxHG7cLVs8gre9Y5xeMjW3izqer",
+          "numberOfVotes": 46,
+          "voteHistory": {
+            "totalCount": 46,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "16UJBPHVqQ3xYXnmhEpaQtvSRnrP9k1XeE7WxoyCxsrL9AvV",
+          "numberOfVotes": 43,
+          "voteHistory": {
+            "totalCount": 43,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
